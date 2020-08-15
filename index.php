@@ -1,3 +1,1 @@
-<?php
-    include_once("my.html");
-?>
+<?php include_once(“my.html”); ?>
